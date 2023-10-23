@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522279328032",
+    "project_id": "booknow-2f015",
+    "storage_bucket": "booknow-2f015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522279328032:android:c227153addf1ff3cebdf45",
+        "android_client_info": {
+          "package_name": "com.example.ex_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522279328032-2t7p32k6r6v07t6umkgpk7urrs13846t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMkvLtsrDqVfvKsuLiU8uqKexT1EtpTHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522279328032-2t7p32k6r6v07t6umkgpk7urrs13846t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
